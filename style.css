@@ -1,0 +1,49 @@
+ h1 {
+     color : yellowgreen;
+     text-decoration: white underline wavy ;
+     text-align : center ;
+}
+
+body{
+    background-color : rgb(58, 128, 122);
+} */
+
+ button{
+    background-color: yellow;
+    color : red;
+} */
+
+ body{
+    background-color: #ff00ff;
+} */
+
+ #box{
+    background-color: violet;
+    color : white;
+}
+
+#id{
+    background-color: black;
+    color : white;
+}
+
+p{
+    text-align : left;
+}
+
+p1{
+    background-color: violet;
+}
+p2{
+    background-color: pink;
+}
+
+#p{
+    text-family: arial;
+}
+
+pre{    
+   background-color: white;
+   color: darkgreen
+} 
+ 
